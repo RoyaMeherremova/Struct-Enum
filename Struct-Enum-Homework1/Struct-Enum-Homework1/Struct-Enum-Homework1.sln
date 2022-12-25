@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct-Enum-Homework1", "Struct-Enum-Homework1\Struct-Enum-Homework1.csproj", "{E6C706AC-52C7-4FB3-BF87-D6C78D4C07AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{8A5F7EB7-FD3B-4CA8-9DC7-E61D9E680ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C706AC-52C7-4FB3-BF87-D6C78D4C07AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C706AC-52C7-4FB3-BF87-D6C78D4C07AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C706AC-52C7-4FB3-BF87-D6C78D4C07AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C706AC-52C7-4FB3-BF87-D6C78D4C07AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5F7EB7-FD3B-4CA8-9DC7-E61D9E680ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5F7EB7-FD3B-4CA8-9DC7-E61D9E680ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5F7EB7-FD3B-4CA8-9DC7-E61D9E680ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5F7EB7-FD3B-4CA8-9DC7-E61D9E680ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB108DD-C14D-488F-B89F-433DF643CD23}
+	EndGlobalSection
+EndGlobal
